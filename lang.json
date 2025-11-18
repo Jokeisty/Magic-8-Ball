@@ -1,0 +1,77 @@
+{
+    "de": {
+        "down-text": "Stelle dem Universum eine Frage und erhalte eine mystische Antwort aus den Tiefen der magischen Kugel.",
+        "text-quest": "Ihre Frage",
+        "button": "Stellen Frage",
+        "example": "Zum Beispiel: Wird das Wetter morgen schön sein?",
+        "label-Text-Main-1": "Stelle die Frage",
+        "label-Text-Main-2": "Ballberührung",
+        "label-Text-Main-3": "Antwort erhalten",
+        "label-text-1": "Formulieren Sie eine Frage, die mit Ja oder Nein beantwortet werden kann",
+        "label-text-2": "Klicken Sie auf den Zauberball oder drücken Sie die Taste",
+        "label-text-3": "Der Ball wird dir die mystische Wahrheit offenbaren",
+        "footer-text": "Überlege dir die Frage und berühre den Ball.",
+        "answers": [
+            "Ja",
+            "Nein",
+            "Vielleicht",
+            "Auf jeden Fall",
+            "Frag später nochmal",
+            "Unwahrscheinlich",
+            "Sehr wahrscheinlich",
+            "Ich bin mir nicht sicher",
+            "Absolut",
+            "Keine Chance"
+        ]
+    },
+    "en": {
+        "down-text": "Ask the universe a question and receive a mystical answer from the depths of the magic ball.",
+        "text-quest": "Your question",
+        "button": "Ask Question",
+        "example": "For example: Will the weather be nice tomorrow?",
+        "label-Text-Main-1": "Ask the question",
+        "label-Text-Main-2": "Ball touch",
+        "label-Text-Main-3": "Receive answer",
+        "label-text-1": "Formulate a question that can be answered with yes or no",
+        "label-text-2": "Click on the magic ball or press the key",
+        "label-text-3": "The ball will reveal the mystical truth to you",
+        "footer-text": "Think of a question and touch the ball.",
+        "answers": [
+            "Yes",
+            "No",
+            "Maybe",
+            "Definitely",
+            "Ask again later",
+            "Unlikely",
+            "Very likely",
+            "I'm not sure",
+            "Absolutely",
+            "No way"
+        ]
+    },
+    "ru": {
+        "down-text": "Задайте вселенной вопрос и получите мистический ответ из глубин магического шара.",
+        "text-quest": "Ваш вопрос",
+        "button": "Задать вопрос",
+        "example": "Наример: Хорошая будет погода завтра?",
+        "label-Text-Main-1": "Задайте вопрос",
+        "label-Text-Main-2": "Коснитесь шара",
+        "label-Text-Main-3": "Получите ответ",
+        "label-text-1": "Сформулируйте вопрос, на который можно ответить 'да' или 'нет'",
+        "label-text-2": "Кликните по магическому шару или нажмите клавишу",
+        "label-text-3": "Шар откроет вам мистическую истину",
+        "footer-text": "Обдумайте вопрос и коснитесь шара.",
+        "answers": [
+            "Да",
+            "Нет",
+            "Возможно",
+            "Определённо",
+            "Спроси позже",
+            "Маловероятно",
+            "Очень вероятно",
+            "Я не уверен",
+            "Абсолютно",
+            "Ни за что"
+        ]
+    }
+}
